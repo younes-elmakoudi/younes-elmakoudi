@@ -3,7 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Younes%20El%20Makoudi&fontSize=35&fontColor=ffffff" />
 </p>
 
-<h3 align="center">IT Student • Software Developer • ENSA Tetouan • 1337 School</h3>
+<h3 align="center">IT Student • ENSA Tetouan • 1337 School</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Future+DevSecOps+Engineer;Learning+CI/CD+%26+Cloud;System+Programming+Enthusiast&center=true&width=500&height=45">
