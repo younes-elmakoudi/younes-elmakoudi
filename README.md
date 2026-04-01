@@ -25,12 +25,17 @@
 
 ### 💻 Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=c,cpp,cs,js,php,html,css" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,js,php,html,css" />
 </p>
 
-### ⚙️ Tools & Technologies
+### ⚙️ Frameworks & Technologies
 <p>
-  <img src="https://skillicons.dev/icons?i=dotnet,tailwind,git,github,linux" />
+  <img src="https://skillicons.dev/icons?i=dotnet,laravel,bootstrap,tailwind" />
+</p>
+
+### 🧰 Tools & Environment
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,linux" />
 </p>
 
 ### 🔐 Currently Learning (DevSecOps)
@@ -80,7 +85,8 @@
 - 🧠 Data Structures & Algorithms  
 - ⚙️ System Programming (Linux / C)  
 - 🧱 Object-Oriented Design  
-- 🌐 Web Development  
+- 🌐 Web Development (Laravel, Bootstrap, Tailwind)  
+- ☕ Java Development (JavaFX)  
 - 🔐 Security Awareness  
 - 🐞 Debugging & Optimization  
 
