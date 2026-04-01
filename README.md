@@ -116,14 +116,6 @@
 
 ---
 
-## 👀 Visitors
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=younes-elmakoudi&label=Profile%20views&color=0e75b6&style=flat" />
-</p>
-
----
-
 <p align="center">
   ⭐ <i>Consistency beats talent when talent doesn’t work hard.</i>
 </p>
